@@ -1,0 +1,99 @@
+.fonte {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.header {
+  background-color: #003049;
+  height: 9vh;
+  width: 100;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav {
+  text-align: center;
+  font-weight: 500;
+  font-size: large;
+}
+
+.nav a {
+  text-decoration: none;
+  color: white;
+}
+
+.secao {
+  width: 65vw;
+  padding: 1.5rem;
+}
+
+.secao a, tr, p, h3 {
+  text-align: justify;
+  text-decoration: none;
+  color: black;
+}
+
+.secao td {
+    padding-right: 1rem;
+}
+
+.aside {
+  width: 25vw;
+  position: absolute; top: 30; right: 0;
+  padding: 2rem;
+}
+
+.aside a {
+  text-decoration: none;
+  text-align: justify;
+  color: black;
+}
+
+.footer {
+  width: 100;
+  background-color: #d62828;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+}
+
+.footer a {
+  text-decoration: none;
+  text-align: justify;
+  color: white;
+}
+
+.mais-lidas th, td {
+  padding-right: 2rem;
+  padding-bottom: 0.5rem;
+}
+
+.secao2 {
+  width: 65vw;
+  padding-left: 2rem;
+  padding-top: 1rem;
+}
+
+.contato {
+  width: 100;
+  padding: 2rem;
+}
+
+.background {
+  background-image: url(https://images.unsplash.com/photo-1605810230434-7631ac76ec81?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.secao3 {
+  width: 35vw;
+  padding-left: 8rem;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  color: black;
+}
+
+.retangulo {
+  background-color: white;
+  padding: 4rem;
+}
