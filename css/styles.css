@@ -27,19 +27,24 @@
   padding: 1.5rem;
 }
 
-.secao a, tr, p, h3 {
+.secao a,
+tr,
+p,
+h3 {
   text-align: justify;
   text-decoration: none;
   color: black;
 }
 
 .secao td {
-    padding-right: 1rem;
+  padding-right: 1rem;
 }
 
 .aside {
   width: 25vw;
-  position: absolute; top: 30; right: 0;
+  position: absolute;
+  top: 30;
+  right: 0;
   padding: 2rem;
 }
 
@@ -63,7 +68,8 @@
   color: white;
 }
 
-.mais-lidas th, td {
+.mais-lidas th,
+td {
   padding-right: 2rem;
   padding-bottom: 0.5rem;
 }
